@@ -59,6 +59,7 @@ Staff:  Jorge Suazo
 | 12 | 27/noviembre/2026 | TBA | TBA |
 | 13 | 04/diciembre/2026 | TBA | TBA |
 
+## Acceso a materiales y grabaciones  
 
 #### Viernes 1. Información general del curso
 
