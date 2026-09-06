@@ -68,4 +68,4 @@ Staff:  Jorge Suazo
 - Presentación: PENDIENTE
 - Link de Youtube: PENDIENTE
 
-[Aviso de privacidad](https://docs.google.com/document/d/1zyNLtdd8k62uQ4Lua7_-8e00EW0NggX7rzfhU_kZSqQ/edit?usp=sharing)  
+[Aviso de privacidad](https://drive.google.com/file/d/1b8gm_IPRp2Zv1mK5djiUptMPWNQNQClt/view?usp=sharing)  
