@@ -46,7 +46,7 @@ Staff:  Jorge Suazo
 | Sesión | Fecha | Tema | Instructores |
 | :---: | :--- | :--- | :--- |
 | 1 | 11/septiembre/2026 | Información general del curso | Evelia Coss e Israel Aguilar |
-| 2 | 18/septiembre/2026 | TBA | Israel Aguilar |
+| 2 | 18/septiembre/2026 | RNA-seq en 10 minutos & Charla: Medicina de precisión para un envejecimiento exitoso | [David Valle García](https://www.cinvestav.mx/sur/conocenos/departamentos/cie/investigacion/directorio-de-investigacion/david-valle-garcia) |
 | 3 | 25/septiembre/2026 | El buen uso de un clúster de cómputo | Dr. Walter Santos |
 | 4 | 02/octubre/2026 | TBA | Israel Aguilar |
 | 5 | 09/octubre/2026 | TBA | Israel Aguilar |
