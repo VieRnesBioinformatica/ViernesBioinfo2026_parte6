@@ -68,4 +68,9 @@ Staff:  Jorge Suazo
 - Presentación: [Diapos en Canva](https://canva.link/3du6vomidot8r7v)
 - Link de Youtube: [Clase en Video](https://www.youtube.com/live/D_JX0Joqk5w?si=07gMfOwGEfkfAkyE)
 
+- Fecha: 18 de Septiembre
+- Instructor: [David Valle García](https://www.cinvestav.mx/sur/conocenos/departamentos/cie/investigacion/directorio-de-investigacion/david-valle-garcia)
+- Material para la clase: [Repositorio con instrucciones](https://github.com/david-valle/RNAseq_10min)
+- Link de Youtube: [Clase en Video](https://youtube.com/live/9E_A4WSoefE)
+
 [Aviso de privacidad](https://drive.google.com/file/d/1b8gm_IPRp2Zv1mK5djiUptMPWNQNQClt/view?usp=sharing)  
