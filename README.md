@@ -65,7 +65,7 @@ Staff:  Jorge Suazo
 
 - Fecha: 11 de Septiembre
 - Instructoras: Evelia Coss & Israel Aguilar
-- Presentación: PENDIENTE
-- Link de Youtube: PENDIENTE
+- Presentación: [Diapos en Canva](https://canva.link/3du6vomidot8r7v)
+- Link de Youtube: [Clase en Video](https://www.youtube.com/live/D_JX0Joqk5w?si=07gMfOwGEfkfAkyE)
 
 [Aviso de privacidad](https://drive.google.com/file/d/1b8gm_IPRp2Zv1mK5djiUptMPWNQNQClt/view?usp=sharing)  
