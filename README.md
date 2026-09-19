@@ -84,30 +84,30 @@ Staff:  Jorge Suazo
 - Fecha: 02 de Octubre  
 - Instructor: Israel Aguilar
 - Material para la clase: Pendiente
-- Link de Youtube: Clase en Video
+- Link de Youtube: [Clase en Video](https://youtube.com/live/utGjlcR8PVk?feature=share)
 
 #### Viernes 5. ¿Qué es un pipeline? & Charla: los primeros genomas completos del proyecto oriGen
 - Fecha: 09 de Octubre  
 - Instructor: Israel Aguilar
 - Material para la clase: Pendiente
-- Link de Youtube: Clase en Video
+- Link de Youtube: [Clase en Video](https://youtube.com/live/jwr9qjKXFWs?feature=share)  
 
 #### Viernes 6. Taller de análisis de supervivencia (cox proportional hazards, curvas de kaplan meier)
 - Fecha: 16 de Octubre  
 - Instructor: Pablo Jimenez Feria  
 - Material para la clase: Pendiente
-- Link de Youtube: Clase en Video
+- Link de Youtube: [Clase en Video](https://youtube.com/live/iREbL6jkS_U?feature=share)  
 
 #### Viernes 7. Introducción a VSCode
 - Fecha: 23 de Octubre  
 - Instructor: Miguel Diaz  
 - Material para la clase: Pendiente
-- Link de Youtube: Clase en Video
+- Link de Youtube: [Clase en Video](https://youtube.com/live/XGDqU6-18W4?feature=share)  
 
 #### Viernes 8. Entendiendo los p-values: Estadística Aplicada a Bioinformática
 - Fecha: 30 de Octubre  
 - Instructor: Sandra Michelle Torres Pantoja
 - Material para la clase: Pendiente
-- Link de Youtube: Clase en Video
+- Link de Youtube: [Clase en Video](https://youtube.com/live/JFkBnBjCCuc?feature=share)  
 
 [Aviso de privacidad](https://drive.google.com/file/d/1b8gm_IPRp2Zv1mK5djiUptMPWNQNQClt/view?usp=sharing)  
