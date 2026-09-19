@@ -47,9 +47,9 @@ Staff:  Jorge Suazo
 | :---: | :--- | :--- | :--- |
 | 1 | 11/septiembre/2026 | Información general del curso | Evelia Coss e Israel Aguilar |
 | 2 | 18/septiembre/2026 | RNA-seq en 10 minutos & Charla: Medicina de precisión para un envejecimiento exitoso | [David Valle García](https://www.cinvestav.mx/sur/conocenos/departamentos/cie/investigacion/directorio-de-investigacion/david-valle-garcia) |
-| 3 | 25/septiembre/2026 | El buen uso de un clúster de cómputo | Dr. Walter Santos |
-| 4 | 02/octubre/2026 | TBA | Israel Aguilar |
-| 5 | 09/octubre/2026 | TBA | Israel Aguilar |
+| 3 | 25/septiembre/2026 | El buen uso de un clúster de cómputo | Walter Santos |
+| 4 | 02/octubre/2026 | Cómo compartir tu Código del Paper y no morir en el intento & Pyramid Plot en R | Israel Aguilar |
+| 5 | 09/octubre/2026 | ¿Qué es un pipeline? & Charla: los primeros genomas completos del proyecto oriGen | Israel Aguilar |
 | 6 | 16/octubre/2026 | Taller de análisis de supervivencia (cox proportional hazards, curvas de kaplan meier) | Pablo Jimenez Feria |
 | 7 | 23/octubre/2026 | Introducción a VSCode | Miguel Diaz |
 | 8 | 30/octubre/2026 | Entendiendo los p-values: Estadística Aplicada a Bioinformática | Sandra Michelle Torres Pantoja |
@@ -73,5 +73,11 @@ Staff:  Jorge Suazo
 - Instructor: [David Valle García](https://www.cinvestav.mx/sur/conocenos/departamentos/cie/investigacion/directorio-de-investigacion/david-valle-garcia)
 - Material para la clase: [Repositorio con instrucciones](https://github.com/david-valle/RNAseq_10min)
 - Link de Youtube: [Clase en Video](https://youtube.com/live/9E_A4WSoefE)
+
+#### Viernes 3. El buen uso de un clúster de cómputo
+- Fecha: 25 de Septiembre
+- Instructor: Walter Santos - Jefe de Supercómputo INMEGEN 
+- Material para la clase: Pendiente
+- Link de Youtube: [Clase en Video](https://www.youtube.com/live/zW6_Ds9km7A?si=4p1knuRVRLAqoAGe)
 
 [Aviso de privacidad](https://drive.google.com/file/d/1b8gm_IPRp2Zv1mK5djiUptMPWNQNQClt/view?usp=sharing)  
