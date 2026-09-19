@@ -104,7 +104,7 @@ Staff:  Jorge Suazo
 - Material para la clase: Pendiente
 - Link de Youtube: Clase en Video
 
-#### Viernes 8. ntendiendo los p-values: Estadística Aplicada a Bioinformática
+#### Viernes 8. Entendiendo los p-values: Estadística Aplicada a Bioinformática
 - Fecha: 30 de Octubre  
 - Instructor: Sandra Michelle Torres Pantoja
 - Material para la clase: Pendiente
