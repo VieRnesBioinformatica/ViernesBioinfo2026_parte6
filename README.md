@@ -80,4 +80,34 @@ Staff:  Jorge Suazo
 - Material para la clase: Pendiente
 - Link de Youtube: [Clase en Video](https://www.youtube.com/live/zW6_Ds9km7A?si=4p1knuRVRLAqoAGe)
 
+#### Viernes 4. Cómo compartir tu Código del Paper y no morir en el intento & Pyramid Plot en R
+- Fecha: 02 de Octubre  
+- Instructor: Israel Aguilar
+- Material para la clase: Pendiente
+- Link de Youtube: Clase en Video
+
+#### Viernes 5. ¿Qué es un pipeline? & Charla: los primeros genomas completos del proyecto oriGen
+- Fecha: 09 de Octubre  
+- Instructor: Israel Aguilar
+- Material para la clase: Pendiente
+- Link de Youtube: Clase en Video
+
+#### Viernes 6. Taller de análisis de supervivencia (cox proportional hazards, curvas de kaplan meier)
+- Fecha: 16 de Octubre  
+- Instructor: Pablo Jimenez Feria  
+- Material para la clase: Pendiente
+- Link de Youtube: Clase en Video
+
+#### Viernes 7. Introducción a VSCode
+- Fecha: 23 de Octubre  
+- Instructor: Miguel Diaz  
+- Material para la clase: Pendiente
+- Link de Youtube: Clase en Video
+
+#### Viernes 8. ntendiendo los p-values: Estadística Aplicada a Bioinformática
+- Fecha: 30 de Octubre  
+- Instructor: Sandra Michelle Torres Pantoja
+- Material para la clase: Pendiente
+- Link de Youtube: Clase en Video
+
 [Aviso de privacidad](https://drive.google.com/file/d/1b8gm_IPRp2Zv1mK5djiUptMPWNQNQClt/view?usp=sharing)  
