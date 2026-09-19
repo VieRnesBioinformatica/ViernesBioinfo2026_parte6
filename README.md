@@ -68,6 +68,7 @@ Staff:  Jorge Suazo
 - Presentación: [Diapos en Canva](https://canva.link/3du6vomidot8r7v)
 - Link de Youtube: [Clase en Video](https://www.youtube.com/live/D_JX0Joqk5w?si=07gMfOwGEfkfAkyE)
 
+#### Viernes 2. RNA-seq en 10 minutos & Charla: Medicina de precisión para un envejecimiento exitoso
 - Fecha: 18 de Septiembre
 - Instructor: [David Valle García](https://www.cinvestav.mx/sur/conocenos/departamentos/cie/investigacion/directorio-de-investigacion/david-valle-garcia)
 - Material para la clase: [Repositorio con instrucciones](https://github.com/david-valle/RNAseq_10min)
