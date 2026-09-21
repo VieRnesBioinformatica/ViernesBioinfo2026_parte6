@@ -1,0 +1,33 @@
+# R user-specific files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio / IDE
+.Rproj.user/
+
+# Positron / VS Code
+.vscode/
+
+# renv local library
+renv/library/
+renv/staging/
+
+# Variables de entorno / secretos
+.env
+!.env.example
+
+# Project outputs
+output/
+outputs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
