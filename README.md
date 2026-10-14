@@ -77,25 +77,25 @@ Staff:  Jorge Suazo
 #### Viernes 3. El buen uso de un clúster de cómputo
 - Fecha: 25 de Septiembre
 - Instructor: Walter Santos - Jefe de Supercómputo INMEGEN 
-- Material para la clase: Pendiente
+- Material para la clase: No hay.
 - Link de Youtube: [Clase en Video](https://www.youtube.com/live/zW6_Ds9km7A?si=4p1knuRVRLAqoAGe)
 
 #### Viernes 4. Cómo compartir tu Código del Paper y no morir en el intento & Pyramid Plot en R
 - Fecha: 02 de Octubre  
 - Instructor: Israel Aguilar
-- Material para la clase: Pendiente
+- Material para la clase: [Script en R](https://raw.githubusercontent.com/biofreelancer/public_datasets/refs/heads/main/Rgym/piramideau.R)
 - Link de Youtube: [Clase en Video](https://youtube.com/live/utGjlcR8PVk?feature=share)
 
 #### Viernes 5. ¿Qué es un pipeline? & Charla: los primeros genomas completos del proyecto oriGen
 - Fecha: 09 de Octubre  
 - Instructor: Israel Aguilar
-- Material para la clase: Pendiente
+- Material para la clase: No hay.
 - Link de Youtube: [Clase en Video](https://youtube.com/live/jwr9qjKXFWs?feature=share)  
 
 #### Viernes 6. Taller de análisis de supervivencia (cox proportional hazards, curvas de kaplan meier)
 - Fecha: 16 de Octubre  
 - Instructor: Pablo Jimenez Feria  
-- Material para la clase: Pendiente
+- Material para la clase: [Script en R](https://raw.githubusercontent.com/Pablo-JiFe/surv_analyisis/refs/heads/main/surv_analysis.R)
 - Link de Youtube: [Clase en Video](https://youtube.com/live/iREbL6jkS_U?feature=share)  
 
 #### Viernes 7. Introducción a VSCode
