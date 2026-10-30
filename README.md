@@ -22,7 +22,7 @@ Gracias por hacer de nuestro grupo un lugar especial. ¡Espero que sigamos logra
 
 ## Entrega de Diplomas
 
-Se otorgará un diploma a los participantes que cuenten con el 80 % de las asistencias emitido por el LIIGH-UNAM, teniendo como representante a la Dra. Maria Avila.
+Se otorgará un diploma a los participantes que cuenten con el 80 % de las asistencias.
 
 > ASISTENCIAS: Utilizaremos una extensión de Google Meet para registrar la asistencia. Esta herramienta registrará automáticamente el nombre de usuario de Gmail, la hora de entrada y el tiempo que permanezcan en la llamada. Les pedimos que, antes de la clase, se aseguren de que su nombre de usuario esté actualizado.
 > 
