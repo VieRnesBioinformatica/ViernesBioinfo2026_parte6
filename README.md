@@ -53,7 +53,7 @@ Staff:  Jorge Suazo
 | 6 | 16/octubre/2026 | Taller de análisis de supervivencia (cox proportional hazards, curvas de kaplan meier) | Pablo Jimenez Feria |
 | 7 | 23/octubre/2026 | Introducción a VSCode | Miguel Diaz |
 | 8 | 30/octubre/2026 | Entendiendo los p-values: Estadística Aplicada a Bioinformática | Sandra Michelle Torres Pantoja |
-| 9 | 06/noviembre/2026 | TBA | TBA |
+| 9 | 06/noviembre/2026 | Aprendiendo flujos de trabajo: introducción a Snakemake | Dr. Ram Gonzalez Buenfil |
 | 10 | 13/noviembre/2026 | Bioinformática reproducible con R: "Del código al contenedor” | MSc Diego Montiel González |
 | 11 | 20/noviembre/2026 | TBA | Alejandra Paulina Pérez González |
 | 12 | 27/noviembre/2026 | TBA | TBA |
