@@ -57,7 +57,7 @@ Staff:  Jorge Suazo
 | 10 | 13/noviembre/2026 | Bioinformática reproducible con R: "Del código al contenedor” | MSc Diego Montiel González |
 | 11 | 20/noviembre/2026 | Redes con pySCENIC | Alejandra Paulina Pérez González |
 | 12 | 27/noviembre/2026 | TBA | TBA |
-| 13 | 04/diciembre/2026 | TBA | TBA |
+| 13 | 04/diciembre/2026 | Estadística Descriptiva en R | Israel Aguilar |
 
 ## Acceso a materiales y grabaciones  
 
@@ -109,5 +109,11 @@ Staff:  Jorge Suazo
 - Instructor: Sandra Michelle Torres Pantoja
 - Material para la clase: Pendiente
 - Link de Youtube: [Clase en Video](https://youtube.com/live/JFkBnBjCCuc?feature=share)  
+
+#### Viernes 9. Aprendiendo flujos de trabajo: introducción a Snakemake
+- Fecha: 06 de Noviembre  
+- Instructor: Ram Gonzalez Buenfil
+- Material para la clase: [Repositorio github](https://github.com/RamGonzalez/snakemake-tutorial)  
+- Link de Youtube: [Clase en Video](https://youtube.com/live/_8nNS0iHP4s)  
 
 [Aviso de privacidad](https://drive.google.com/file/d/1b8gm_IPRp2Zv1mK5djiUptMPWNQNQClt/view?usp=sharing)  
