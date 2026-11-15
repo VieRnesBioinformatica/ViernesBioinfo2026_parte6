@@ -114,6 +114,30 @@ Staff:  Jorge Suazo
 - Fecha: 06 de Noviembre  
 - Instructor: Ram Gonzalez Buenfil
 - Material para la clase: [Repositorio github](https://github.com/RamGonzalez/snakemake-tutorial)  
-- Link de Youtube: [Clase en Video](https://youtube.com/live/_8nNS0iHP4s)  
+- Link de Youtube: [Clase en Video](https://youtube.com/live/_8nNS0iHP4s)
+
+#### Viernes 10. Bioinformática reproducible con R: "Del código al contenedor”
+- Fecha: 13 de Noviembre  
+- Instructor: MSc Diego Montiel González
+- Material para la clase: [Repositorio github](https://github.com/dmontielg/viernes-de-bioinformatica)  
+- Link de Youtube: [Clase en Video](https://youtube.com/live/yDL9Kj8kzu4)  
+
+#### Viernes 11. Analisis de Redes con pySCENIC
+- Fecha: 20 de Noviembre  
+- Instructor: MSc Diego Montiel González
+- Material para la clase: PENDIENTE
+- Link de Youtube: [Clase en Video](https://youtube.com/live/t8rwxIMAlbs?feature=share)
+
+#### Viernes 12. TBA
+- Fecha: 27 de Noviembre  
+- Instructor: TBA
+- Material para la clase: PENDIENTE
+- Link de Youtube: [Clase en Video](https://youtube.com/live/SRRQjXLJfvs?feature=share)  
+
+#### Viernes 13. Estadística Descriptiva en R
+- Fecha: 04 de Diciembre  
+- Instructor: Israel Aguilar Ordóñez
+- Material para la clase: PENDIENTE
+- Link de Youtube: [Clase en Video](https://youtube.com/live/htQ7eqbIUGQ?feature=share)
 
 [Aviso de privacidad](https://drive.google.com/file/d/1b8gm_IPRp2Zv1mK5djiUptMPWNQNQClt/view?usp=sharing)  
