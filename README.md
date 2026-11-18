@@ -55,8 +55,8 @@ Staff:  Jorge Suazo
 | 8 | 30/octubre/2026 | Entendiendo los p-values: Estadística Aplicada a Bioinformática | Sandra Michelle Torres Pantoja |
 | 9 | 06/noviembre/2026 | Aprendiendo flujos de trabajo: introducción a Snakemake | Dr. Ram Gonzalez Buenfil |
 | 10 | 13/noviembre/2026 | Bioinformática reproducible con R: "Del código al contenedor” | MSc Diego Montiel González |
-| 11 | 20/noviembre/2026 | Redes con pySCENIC | Alejandra Paulina Pérez González |
-| 12 | 27/noviembre/2026 | TBA | TBA |
+| 11 | 20/noviembre/2026 | Análisis de redes con pySCENIC | Emilio Sosa Diaz |
+| 12 | 27/noviembre/2026 | Introducción a la metilación del DNA | Mtro. Aaron Espinosa-Jaime |
 | 13 | 04/diciembre/2026 | Estadística Descriptiva en R | Israel Aguilar |
 
 ## Acceso a materiales y grabaciones  
